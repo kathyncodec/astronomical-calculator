@@ -1,0 +1,21 @@
+# Pastas e arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.log
+
+# Pastas de build
+bin/
+obj/
+
+# Configurações específicas do IDE
+*.VC.db
+*.VC.VC.opendb
+
+# Outros
+*.exe
+*.dll
+*.db
